@@ -10,7 +10,7 @@ rows = []
 city = "Алматы"
 
 for category in categories:
-    title = f"{category} в магазине Декатлон Казахстан"
+    title = f"{category} купить в магазине Декатлон Казахстан"
     description = f"Купить {category} в {city} ✓ 0% рассрочка на 4 месяца ✓ Доставка по всему Казахстану"
     # h1 = f""
     footer_text = f"""Часто задаваемые вопросы o категории {category}:\n
